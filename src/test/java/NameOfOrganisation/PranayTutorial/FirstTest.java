@@ -15,7 +15,17 @@ public class FirstTest {
 		public void Demo()
 		{
 			System.out.println("Hello");
+			System.out.println("Hello Pranay ,Pushing code here");
+			System.out.println("GitDemoRepo");
+			
 		}
 
+        
+        @Test
+        public void PushCode()
+        {
+        	System.out.println("Pushing code here");
+			System.out.println("First One to change");
+        }
 
 }
