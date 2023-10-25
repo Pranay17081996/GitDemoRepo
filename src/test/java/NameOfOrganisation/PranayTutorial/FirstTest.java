@@ -33,5 +33,11 @@ public class FirstTest {
         	System.out.println("Pushing code here");
 			System.out.println("First One to change");
         }
+        
+        @Test
+		public void GitDemoRepo2()
+		{
+			System.out.println("GitDemoRepo IOS Testing testing");
+		}
 
 }

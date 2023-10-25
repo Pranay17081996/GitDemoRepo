@@ -15,5 +15,11 @@ public class Number {
 		{
 			System.out.println("Gitstufff changes here");
 		}
+	 
+	 @Test
+		public void GitDemoRepo()
+		{
+			System.out.println("GitDemoRepo web testing");
+		}
 	
 }
