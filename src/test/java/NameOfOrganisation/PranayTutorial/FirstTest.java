@@ -20,6 +20,12 @@ public class FirstTest {
 			
 		}
 
+        @Test
+        public void Gitstuffmethod()
+        {
+        	System.out.println("pull first and then Pushing code here");
+			
+        }
         
         @Test
         public void PushCode()
